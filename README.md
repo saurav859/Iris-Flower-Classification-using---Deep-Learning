@@ -1,9 +1,12 @@
 🌸 Iris Flower Classification using Deep Learning
 
+Interface --
+<img width="1536" height="1024" alt="ChatGPT Image Apr 23, 2026, 06_16_49 PM" src="https://github.com/user-attachments/assets/5d93b2f1-c9db-492f-8d46-6f4ea98e6aad" />
+
+
+Project Overviews--
 This project implements a deep learning-based multi-class classification model to predict the species of an Iris flower using four numerical features: sepal length, sepal width, petal length, and petal width. A feedforward neural network (MLP) is trained on the classic Iris dataset to classify samples into Setosa, Versicolor, and Virginica.
-
 Problem Type: Supervised Learning, Multi-class Classification
-
 Inputs: 4 continuous features
 
 Outputs: 3-class categorical label
